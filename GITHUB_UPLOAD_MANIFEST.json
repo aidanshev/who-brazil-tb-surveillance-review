@@ -1,0 +1,112 @@
+[
+  {
+    "path": ".gitignore",
+    "size_bytes": 416,
+    "sha256": "159b85d8f7e782bab480f85d2e6f677db9316a2d8a4492098bffce2f6c696cd7"
+  },
+  {
+    "path": "CITATION.cff",
+    "size_bytes": 360,
+    "sha256": "6c789a54e72a5f8d8de1579de85de8cf6bca231b784f43cc5155bfb3daa46a34"
+  },
+  {
+    "path": "DATA_SOURCES.md",
+    "size_bytes": 971,
+    "sha256": "ac3abfe5e9475be8f8550a32e88b7bdfe349cba6a885db14584b3bba909d30ad"
+  },
+  {
+    "path": "FIGURE_AND_IMAGE_PROVENANCE.md",
+    "size_bytes": 1178,
+    "sha256": "58198019df82387df924cb8edae858659d4527dc0b9c9d0edcbe47af6afcc8d7"
+  },
+  {
+    "path": "GITHUB_UPLOAD_MANIFEST.json",
+    "size_bytes": 3236,
+    "sha256": "b9933a380c07975a76864cb0ab78e255d3f875cd2becac456a11699983e53fd6"
+  },
+  {
+    "path": "LICENSE_NOTICE.md",
+    "size_bytes": 286,
+    "sha256": "e146423464e4fe67347bff5d921b0362798572dca7eaeb1a836197531cc3fbf6"
+  },
+  {
+    "path": "PUBLIC_RELEASE_AUDIT.json",
+    "size_bytes": 194,
+    "sha256": "e51447b615c3fcbb5a2019cffe772399a08e04a38655e94c7901a259a6faec82"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 1121,
+    "sha256": "c02a80271b63a5b129e01514a8e3846b6989e303d418b42ca37140438d8a8f8e"
+  },
+  {
+    "path": "REPOSITORY_STATUS.md",
+    "size_bytes": 158,
+    "sha256": "5fcee19b01d672e2be4cb7a5ff6f0914ed5ada51bbec83ace385adda4fe03df1"
+  },
+  {
+    "path": "RESULTS_SUMMARY.md",
+    "size_bytes": 614,
+    "sha256": "196ad2b919529ddc2a55b1e7101243f5db860a9fc5555058743bb74c398cceec"
+  },
+  {
+    "path": "SECURITY_AND_PRIVACY.md",
+    "size_bytes": 400,
+    "sha256": "24026c5e71d0558746cadd526799cc780edf419d12768835d2b6c782c0463581"
+  },
+  {
+    "path": "code/README.md",
+    "size_bytes": 320,
+    "sha256": "56450079c47bee0350cbe03068174c3e48255714425a40aceba92739c99758cc"
+  },
+  {
+    "path": "docs/UPSTREAM_PLATFORM_README.md",
+    "size_bytes": 8239,
+    "sha256": "6475f639d2b119ad9491ccd3db7b7290b1bf63b079ceaf9c4590a4e53a66f265"
+  },
+  {
+    "path": "results/DECISION_ANALYSIS_SUMMARY.csv",
+    "size_bytes": 427,
+    "sha256": "8c05e926036ce076c311c70db480c7e555bb6aa3d5a5a6afe95ab7dcb7a20acc"
+  },
+  {
+    "path": "src/mdrtb_surveillance/alerts.py",
+    "size_bytes": 7468,
+    "sha256": "fd8d139a75b3f87ddb9d37f1baba999c0d15a0fbfe636d5bdcb04825fa0295f5"
+  },
+  {
+    "path": "src/mdrtb_surveillance/benchmark.py",
+    "size_bytes": 2823,
+    "sha256": "1a88ce9345082bf8ab282d7bef7179d8f34fc5b05875c6f43456fd4cf6ea0317"
+  },
+  {
+    "path": "src/mdrtb_surveillance/cli.py",
+    "size_bytes": 7109,
+    "sha256": "876fd41e026460ce0e9162afe48ec1414ac8042edc095dad3dde3bfe0397c4f7"
+  },
+  {
+    "path": "src/mdrtb_surveillance/config.py",
+    "size_bytes": 1942,
+    "sha256": "a541b8b24af144f737929024fcb8e2d34424c96e7fed28c3b3fb708ebf5092cf"
+  },
+  {
+    "path": "src/mdrtb_surveillance/models.py",
+    "size_bytes": 7270,
+    "sha256": "3f216528d3a8962fc78a190fa2ab4a4757ff3e82a99570094e65847747c921dd"
+  },
+  {
+    "path": "src/mdrtb_surveillance/pipeline.py",
+    "size_bytes": 3665,
+    "sha256": "9b373f1297f6ce470f0183c8ea2829a4c8a4b00f430794084a7f8935e6107b2c"
+  },
+  {
+    "path": "src/mdrtb_surveillance/who.py",
+    "size_bytes": 5458,
+    "sha256": "6a8f5e029c399179371900aa8933e3e8e7fccb34d4f571fc3ba6eae1465d12d1"
+  },
+  {
+    "path": "tools/public_release_audit.py",
+    "size_bytes": 1065,
+    "sha256": "8db1df43a55c03496e1867cb868829e9d50494730b8fe39d4033ee6ffb193ef6"
+  }
+]
