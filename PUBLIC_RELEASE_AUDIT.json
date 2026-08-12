@@ -1,0 +1,5 @@
+{
+  "repository": "who-brazil-tb-surveillance-review",
+  "status": "PASS",
+  "output": "PASS: no prohibited images, raw-data extensions, >25MB files, obvious private paths, or token patterns."
+}

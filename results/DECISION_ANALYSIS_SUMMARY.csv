@@ -1,0 +1,8 @@
+metric,value,interpretation
+power_qualified_windows,401,Conditional simulation denominator
+strict_sentinel_windows,19,Selected windows
+strict_sentinel_fraction,0.047,19/401
+forecast_resistant_positive_volume_covered,0.477,Forecast volume share
+conditional_sensitivity,0.805,Simulation-based/power-qualified
+null_false_alert_probability,0.0181,Simulation-based
+empirical_ppv,NA,Unavailable because no strict-tier alert occurred

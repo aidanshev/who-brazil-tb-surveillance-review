@@ -1,0 +1,3 @@
+# Results and claim boundary
+
+This is a governance/decision-analysis framework, not an independent third model-performance study. The Brazil strict sentinel selected 19 of 401 power-qualified windows (4.7%) representing 47.7% of forecast resistant-positive volume. Conditional simulation sensitivity was 80.5% and null false-alert probability 1.81%. Scenario PPVs depend on assumed event prevalence and are not empirical PPV; no strict-tier alert occurred, so empirical PPV was unavailable. The repository must cross-reference the primary WHO-global and Brazil repositories because it reuses their frozen outputs.
