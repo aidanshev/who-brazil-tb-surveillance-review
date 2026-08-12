@@ -1,10 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this software, cite the associated manuscript and archived release."
+message: "If you use this repository, cite the associated manuscript and the permanent archived release once available."
 title: "WHO-Brazil Tiered TB Surveillance Review"
 type: software
 authors:
   - family-names: "Shev"
     given-names: "Aidan"
 repository-code: "https://github.com/aidanshev/who-brazil-tb-surveillance-review"
-version: "1.0.0"
-date-released: "2026-08-11"
+url: "https://github.com/aidanshev/who-brazil-tb-surveillance-review"
